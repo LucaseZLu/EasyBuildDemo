@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8d2766c605fbdbb4a94486fd8b931c1e
+timeCreated: 1520573673
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _df: {fileID: 2800000, guid: fc09cc9b2a8a3084caf2072a482dcb0d, type: 3}
+  - _shadowdf: {fileID: 2800000, guid: fc09cc9b2a8a3084caf2072a482dcb0d, type: 3}
+  - _dfdark: {fileID: 2800000, guid: a55edac7c547054438e65b4aa019e185, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

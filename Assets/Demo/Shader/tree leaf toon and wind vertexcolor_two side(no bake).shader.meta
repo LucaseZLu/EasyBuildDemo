@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d51dab750a5bdcd42b4119d687047d99
+timeCreated: 1532937857
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Diffuse_Tex: {fileID: 2800000, guid: 474fa3be9f9b48645808094ab1b0844f, type: 3}
+  - _Diffuse_Shadow: {fileID: 2800000, guid: 474fa3be9f9b48645808094ab1b0844f, type: 3}
+  - _Emission_Tex: {fileID: 2800000, guid: 474fa3be9f9b48645808094ab1b0844f, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

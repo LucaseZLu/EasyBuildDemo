@@ -1,0 +1,50 @@
+This integration allows you to Easy Build System with the uMMORPG for the Mirror update.
+
+Feature(s) :
+
+	- Allow the placement of parts in multiplayer.
+	- Build Storage component sync to load/save the parts in multiplayer.
+	- Placement allowed by the server only if the item exists is that the item number is correct.
+	- Physics system synchronized with the destruction of parts in the scene.
+	- Default parts ready to use also that pickable objects/icons pack in the package.
+	- Add-on to manage the topdown placement.
+
+Quick Install :
+
+	- Import uMMORPG from Asset Store and Easy Build System(Without Project Settings).
+	- Go to Main Editor in the menu items (Tools/Easy Build System/Main Editor) or CTRL+SHIFT+E.
+	- Go to integration panel and enable the uMMORPG by clicking on the check box and wait the end compilation.
+	- Open one of the demos available in the package or on your own scene.
+	- Run the Quick Start function by clicking on the menu items (Tools/Easy Build System/Utilities/Quick Start).
+	- Select your Main Camera then the component DesktopBuilderBehaviour and disable the creative mode and set the Raycast Placement Distance to 25 to have a good placement.
+	- Go to add-ons section in the component DesktopBuilderBehaviour and enable the add-on uMMORPG.
+	- Add the Parts Collection (Easy Build System/Samples & Integrations/Integrations/uMMORPG Integration/uMMORPG Parts Collection) in the Build Manager of your scene or own parts collection.
+	- Then if you have a terrain in your scene select the Build Support in Terrain.
+	- Add the component MirrorHandlers on the prefab of your scene NetworkManager.
+	- Then go to in folder (uMMORPG/Prefabs/Entities/Players/Archer&Warrior (or your own players)) and add the component PlayerBuilding.
+	- Now you can select your NPC vendors to add the buildings items.
+	
+	- (Optional)(Experimental) NavMesh for uMMORPG - Quick Install :
+
+		Note : 
+			- The system use the dynamic navmesh to that the players take in account the collisions of buildings parts.
+			- If you use the demo of uMMORPG add some colliders to avoid that the player passes through, same things for the rocks for the character selection/creation.
+
+		- Then go to Navigation tab Bake panel and click on clear button the current navmesh of your scene.
+		- Go to Build Manager and add-on section and enable the NavMesh add-on.
+		- Now select the component NavMeshSurface and change the (Use Geometry) by Physics Colliders.
+		- Select the Included Layers and select only Default layer and click on Bake.
+
+	- (Optional) You can drag and drop the prefab NetworkStorage and define output path of Build Storage component in the folder 
+		(Easy Build System/Samples & Integrations/Integrations/uMMORPG Integration/Prefabs) to save/load your parts.
+
+Note(s) :
+
+	- If you want use your own building parts in multiplayer you need to add the component (Mirror)NetworkIdentity or use the default parts available in the integration package.
+	- For create your own building item, right click on your project folder (Create/uMMORPG Item/(Easy Build System) Building) and add your part in the field BuildingPart.
+	- You can change the Build Support to Surface in your Build Manager to improve the placement of foundation types (https://goo.gl/bQLUfY).
+	- If you have of problems of collision with the buildings parts, as players passes through. you can use the new NavMesh add-on available in the Build Manager.
+
+The integration has been tested only on the demo scene, however if you encounter problems, do not hesitate to report them to support.
+
+Github : https://github.com/AdsCryptoz22/EasyBuildSystem/wiki

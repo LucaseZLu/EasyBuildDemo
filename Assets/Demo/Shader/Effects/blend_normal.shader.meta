@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 64d1c86c72bbd264aad28fa93856ec98
+timeCreated: 1531740528
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 9a0d6668e24ceb34ab09969a9ec8b27c, type: 3}
+  - _Nor_tex: {fileID: 2800000, guid: ec22270a20c91d64697b6d2fb653d481, type: 3}
+  - _Nor_tex01: {fileID: 2800000, guid: 8da0dfa140b48e7419bf3366d063ffe0, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

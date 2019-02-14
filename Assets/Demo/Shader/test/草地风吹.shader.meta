@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08d7d231b6f2a4b42bd0dbf9c6b42714
+timeCreated: 1515494647
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _df: {fileID: 2800000, guid: 5524a496b244ce94c978cefbc8390dcf, type: 3}
+  - _noise: {fileID: 2800000, guid: 715b2bf7787ee4f4789d37dc2255d199, type: 3}
+  - _windzone: {fileID: 2800000, guid: 60e66e1330d183d48bdbb6a978ca8ab2, type: 3}
+  - _Nor: {fileID: 2800000, guid: e4cf51e170e86ae4fae8f26a9a636a1e, type: 3}
+  - _windmask: {fileID: 2800000, guid: 4037b7b3937485b4bbf0dbc9b305555e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

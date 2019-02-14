@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b108fc7664850742a3ee505e3c16015
+timeCreated: 1525764908
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Normaluseformixdetail: {fileID: 2800000, guid: 756b943957a62a342aac290d5c4b8516,
+      type: 3}
+  - _dfa: {fileID: 2800000, guid: 699407a79a5504742b924494dcf6093a, type: 3}
+  - _dfb: {fileID: 2800000, guid: 1b0a0e3071dad43499c494ad7057ef3e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a36927a5f0ea1644bae583a0c153c620, type: 3}
+  m_Name: Demo Parts Collection...
+  m_EditorClassIdentifier: 
+  Parts:
+  - {fileID: 896066500631241428, guid: 011111ef90e912348b38a39fdb0bb008, type: 3}
+  - {fileID: 896066500631241428, guid: ebe181794e264584282d9232f5c41e4b, type: 3}
+  - {fileID: 896066500631241428, guid: 9353c317d4c0b174ca21833e3e276bdd, type: 3}
+  - {fileID: 896066500631241428, guid: a5b3afdfd5c24c641a52338a3c1688ff, type: 3}

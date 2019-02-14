@@ -1,0 +1,43 @@
+This integration allows you to Easy Build System with the uSurvival for the Mirror update.
+
+Feature(s) :
+
+	- Allow the placement/destruction of parts in multiplayer.
+	- Build Storage component sync to load/save the parts in multiplayer managed and stored only on the server.
+	- Placement allowed by the server only if the item exists is that the item number is correct.
+	- Physics system synchronized with the destruction of parts in the scene.
+	- Default parts ready to use also that pickable objects/icons pack in the package.
+	- Add-on to manage both types of camera Third/First person with different settings.
+	- Damagable parts with configurable life.
+
+Quick Install :
+
+	- Import uSurvival(With Project Settings) from Asset Store and Easy Build System(Without Project Settings).
+	- Go to Main Editor in the menu items (Tools/Easy Build System/Main Editor) or CTRL+SHIFT+E.
+	- Go to integration panel and enable the uSurvival by clicking on the check box and wait the end compilation.
+	- Open one of the demos available in the package or on your own scene.
+	- Run the Quick Start function by clicking on the menu items (Tools/Easy Build System/Utilities/Quick Start).
+	- Select your Main Camera then the component DesktopBuilderBehaviour and disable the creative mode.
+	- Go to add-ons section in the component DesktopBuilderBehaviour and enable the add-on uSurvival and define in the field Third Origin Transform the current transform.
+	- Add the Parts Collection 
+		(Easy Build System/Samples & Integrations/Integrations/uSurvival Integration/uSurvival Parts Collection) in the Build Manager of your scene or own parts collection.
+	- Add the component MirrorHandlers on the prefab of your scene NetworkManager.
+	- Then go to in folder (uSurvival/Prefabs/Entities/Players/Volund (or your own player)) and add the component PlayerBuilding.
+
+	- (Optional) If you use the default parts collection, you can drag and drop the prefabs available in the folder
+		(Easy Build System/Samples & Integrations/Integrations/uSurvival Integration/Prefabs/Pickables) to pickup them in runtime.
+
+	- (Optional) You can add the component (BuildingDamagePart) on your parts to active the damage on it.
+
+	- (Optional) You can drag and drop the prefab NetworkStorage and define output path of Build Storage component in the folder 
+		(Easy Build System/Samples & Integrations/Integrations/uSurvival Integration/Prefabs) to save/load your parts.
+
+Note(s) :
+
+	- If you want use your own building parts in multiplayer you need to add the component (Mirror)NetworkIdentity or use the default parts available in the integration package.
+	- For create your own building item, right click on your project folder (Create/uSurvival Item/(Easy Build System) Building) and add your part in the field BuildingPart.
+	- You can change the Build Support to Surface in your Build Manager to improve the placement of foundation types (https://goo.gl/bQLUfY).
+
+The integration has been tested only on the demo scene, however if you encounter problems, do not hesitate to report them to support.
+
+Github : https://github.com/AdsCryptoz22/EasyBuildSystem/wiki

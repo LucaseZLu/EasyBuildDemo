@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 1caf5cf76181ee34bb1e8b4a891bd058
+timeCreated: 1533897728
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Neck
+    100004: Bip001 Pelvis
+    100006: Bip001 R Clavicle
+    100008: Bip001 R Forearm
+    100010: Bip001 R Hand
+    100012: Bip001 R UpperArm
+    100014: Bip001 Spine
+    100016: Bip001 Spine1
+    100018: Bip001 Spine2
+    100020: Bone079
+    100022: Bone080
+    100024: Bone081
+    100026: Bone082
+    100028: Bone083
+    100030: Bone084
+    100032: Bone085
+    100034: Bone085(mirrored)
+    100036: Bone086
+    100038: Bone086(mirrored)
+    100040: Bone087
+    100042: Bone087(mirrored)
+    100044: Bone088
+    100046: Bone088(mirrored)
+    100048: Bone089
+    100050: Bone089(mirrored)
+    100052: Bone090
+    100054: Bone090(mirrored)
+    100056: Bone091
+    100058: Bone092
+    100060: Bone093
+    100062: Bone094
+    100064: Bone095
+    100066: Bone096
+    100068: Bone097
+    100070: Bone097(mirrored)
+    100072: Bone098
+    100074: Bone098(mirrored)
+    100076: Bone099
+    100078: Bone099(mirrored)
+    100080: Bone100
+    100082: Bone100(mirrored)
+    100084: Bone101
+    100086: Bone101(mirrored)
+    100088: Bone102
+    100090: Bone102(mirrored)
+    100092: R_Pick
+    100094: shu
+    100096: //RootNode
+    100098: Bone078
+    100100: Bone078(mirrored)
+    100102: shu 1
+    100104: 16000000_root
+    400000: Bip001
+    400002: Bip001 Neck
+    400004: Bip001 Pelvis
+    400006: Bip001 R Clavicle
+    400008: Bip001 R Forearm
+    400010: Bip001 R Hand
+    400012: Bip001 R UpperArm
+    400014: Bip001 Spine
+    400016: Bip001 Spine1
+    400018: Bip001 Spine2
+    400020: Bone079
+    400022: Bone080
+    400024: Bone081
+    400026: Bone082
+    400028: Bone083
+    400030: Bone084
+    400032: Bone085
+    400034: Bone085(mirrored)
+    400036: Bone086
+    400038: Bone086(mirrored)
+    400040: Bone087
+    400042: Bone087(mirrored)
+    400044: Bone088
+    400046: Bone088(mirrored)
+    400048: Bone089
+    400050: Bone089(mirrored)
+    400052: Bone090
+    400054: Bone090(mirrored)
+    400056: Bone091
+    400058: Bone092
+    400060: Bone093
+    400062: Bone094
+    400064: Bone095
+    400066: Bone096
+    400068: Bone097
+    400070: Bone097(mirrored)
+    400072: Bone098
+    400074: Bone098(mirrored)
+    400076: Bone099
+    400078: Bone099(mirrored)
+    400080: Bone100
+    400082: Bone100(mirrored)
+    400084: Bone101
+    400086: Bone101(mirrored)
+    400088: Bone102
+    400090: Bone102(mirrored)
+    400092: R_Pick
+    400094: shu
+    400096: //RootNode
+    400098: Bone078
+    400100: Bone078(mirrored)
+    400102: shu 1
+    400104: 16000000_root
+    2100000: shu
+    4300000: shu
+    7400000: action_read_1
+    9500000: //RootNode
+    13700000: shu 1
+    13700002: shu
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: action_read_1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

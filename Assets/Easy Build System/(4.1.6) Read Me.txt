@@ -1,0 +1,17 @@
+Copyright © 2015-2019 by Ads Studio 12. All right reserved.
+
+Thanks you for have purchasing/updated Easy Build System (4.1).
+If you want use only the system you can remove the folder (Samples & Integrations).
+You can read the release notes to know all changes made on the current version.
+
+If you are having problems with the asset, please report it to support.
+Share your experiences with the system by write a review on the Asset Store Page.
+
+----------------------
+
+Github (Wiki) : https://github.com/AdsCryptoz22/EasyBuildSystem/
+Discord : https://discord.gg/qFM6SNW
+Donate : https://www.paypal.me/AdsStudio12
+
+Asset Store Page : http://u3d.as/joB
+Unity Forum Thread : https://forum.unity3d.com/threads/ebs-modular-building-system.366086/
