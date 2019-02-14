@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 041400af3705b014090eed78a16bdf8d
+timeCreated: 1513062327
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: jj-shuinitai1_a
+    100004: jj-shuinitai1_b
+    100006: jj-shuinitai1_b 1
+    100008: jj-shuinitai1_c
+    100010: jj-shuinitai1_d
+    100012: jj-shuinitai1_e
+    100014: jj-shuinitai1_g
+    100016: jj-shuinitai1_f
+    400000: //RootNode
+    400002: jj-shuinitai1_a
+    400004: jj-shuinitai1_b
+    400006: jj-shuinitai1_b 1
+    400008: jj-shuinitai1_c
+    400010: jj-shuinitai1_d
+    400012: jj-shuinitai1_e
+    400014: jj-shuinitai1_g
+    400016: jj-shuinitai1_f
+    2300000: //RootNode
+    2300002: jj-shuinitai1_a
+    2300004: jj-shuinitai1_b
+    2300006: jj-shuinitai1_b 1
+    2300008: jj-shuinitai1_c
+    2300010: jj-shuinitai1_d
+    2300012: jj-shuinitai1_e
+    2300014: jj-shuinitai1_g
+    2300016: jj-shuinitai1_f
+    3300000: //RootNode
+    3300002: jj-shuinitai1_a
+    3300004: jj-shuinitai1_b
+    3300006: jj-shuinitai1_b 1
+    3300008: jj-shuinitai1_c
+    3300010: jj-shuinitai1_d
+    3300012: jj-shuinitai1_e
+    3300014: jj-shuinitai1_g
+    3300016: jj-shuinitai1_f
+    4300000: jj-shuinitai1
+    4300002: jj-shuinitai1_a
+    4300004: jj-shuinitai1_c
+    4300006: jj-shuinitai1_b
+    4300008: jj-shuinitai1_d
+    4300010: jj-shuinitai1_e
+    4300012: jj-shuinitai1_g
+    4300014: jj-shuinitai1_b
+    4300016: jj-shuinitai1_f
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jj-shuinitai1
+    second: {fileID: 2100000, guid: 16a530e401aeb9447822decad50ccf41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jj-shuinitai1_a
+    second: {fileID: 2100000, guid: 631c92614c5b9fe44a1a87e946822c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jj-shuinitai1_b
+    second: {fileID: 2100000, guid: 521b1074c0760414594ec6609a903b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jj-shuinitai1_c
+    second: {fileID: 2100000, guid: 784092d52dc207a44829bd2ca254da1c, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
