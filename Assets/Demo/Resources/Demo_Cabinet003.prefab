@@ -306,7 +306,7 @@ MonoBehaviour:
     m_Extent: {x: 0, y: 0, z: 0}
   PartOffsets:
   - Part: {fileID: 896066500631241428, guid: a5b3afdfd5c24c641a52338a3c1688ff, type: 3}
-    Position: {x: 0, y: 0, z: 0}
+    Position: {x: 0.15, y: 0, z: 0}
     Rotation: {x: 0, y: 0, z: 0}
     UseCustomScale: 0
     Scale: {x: 1, y: 1, z: 1}
