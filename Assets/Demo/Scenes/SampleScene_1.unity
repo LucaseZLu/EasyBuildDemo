@@ -6250,6 +6250,49 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1614803427}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1620239068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1620239070}
+  - component: {fileID: 1620239069}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1620239069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1620239068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4f009f41128a6a4495d1f886035065f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1620239070
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1620239068}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.5000051, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1641231900
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6795,18 +6838,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '<b><color=cyan>Conditional Physics Example</color></b>
-
-    <size=16>Here you can try to conditional physics system by building and then destroying
-    the default building parts.
-
-    The purpose of this scene is to prevent you from placing certain parts when that
-    is not physically possible.
-
-    You can consult the wiki about <b>Part Behaviour</b> component to have more information
-    about this feature.
-
-    </size>'
+  m_Text: "<b><color=cyan>\u7B2C\u4E00\u4EBA\u79F0 Example</color></b>\n"
 --- !u!222 &1708852602
 CanvasRenderer:
   m_ObjectHideFlags: 0
