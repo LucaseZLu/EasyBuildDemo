@@ -286,7 +286,7 @@ MonoBehaviour:
   AdvancedFeatures: 0
   Id: 110
   Name: "\u5899001"
-  Type: 4
+  Type: 3
   OccupancyParts: []
   FreePlacement: 0
   AvoidClipping: 1

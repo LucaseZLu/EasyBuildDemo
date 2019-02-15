@@ -259,7 +259,7 @@ GameObject:
   - component: {fileID: 8208102987215900644}
   - component: {fileID: 896066500631241428}
   m_Layer: 0
-  m_Name: Demo_floor001
+  m_Name: Demo_floor002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -294,15 +294,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AdvancedFeatures: 0
-  Id: 105
-  Name: "\u5730\u677F001"
+  Id: 111
+  Name: "\u5730\u677F002"
   Type: 4
   OccupancyParts: []
   FreePlacement: 0
   AvoidClipping: 1
-  AvoidClippingOnSocket: 1
+  AvoidClippingOnSocket: 0
   AvoidAnchoredOnSocket: 0
-  RequireSockets: 1
+  RequireSockets: 0
   UseGroundUpper: 1
   GroundUpperHeight: 1
   RotateOnSockets: 0
